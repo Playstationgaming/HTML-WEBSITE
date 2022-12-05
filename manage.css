@@ -1,0 +1,68 @@
+* { margin: 0px; padding: 0px;}
+
+.login-form{
+    box-shadow: 1px 1px 3px 2px white;
+    width: 100%;
+    height: 75%;
+    position:relative;
+    background-color:yellow;
+   
+}
+.login-form h1{
+    font-size:90px;
+    font-weight:bold;
+    padding-left:35%;
+    color: burlywood;
+}
+
+.login-form p{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 500;
+    padding-left:40%;
+    padding-top: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.login-form input{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 65px;
+    padding-right: 50px;
+    margin-left: 40%;
+    border-width: 1px;
+}
+
+.login-form button{
+    padding: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 42%;
+    font-size: 20px;
+    color:white;
+    background-color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.login-form select{
+    margin-left: 40%;
+    padding: 10px;
+    padding-right: 145px;
+}
+
+#image1{
+    margin-top: 10px;
+    display: flex;
+}
+
+#text1{
+    padding-top: 80px;
+    padding-left: 200px;
+    padding-bottom: 90px;
+    font-size: 50px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

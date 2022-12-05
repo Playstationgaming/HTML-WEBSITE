@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#login-form{
+    width: 100%;
+    height: 46vh;
+    background-color:white;
+}
+
+#login-form video{
+    width: 100%;
+    position: fixed;
+    
+
+   
+}
+
+#login-form form{
+    padding-left: 150vh;
+    padding-top: 30vh;
+    position: fixed;
+ 
+}
+
+#login-form p{
+    font-size: 80px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#login-form input{
+    padding: 10px;
+    padding-right: 100px;
+}
+
+#login-form button{
+    position: fixed;
+    margin-top: 70vh;
+    margin-left: 153vh;
+    padding: 20px;
+    border-radius: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 15px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
